@@ -1,0 +1,6 @@
+#ifndef C_FAMTREE_CLEARBUFFER_H
+#define C_FAMTREE_CLEARBUFFER_H
+
+void clearBuffer();
+
+#endif //C_FAMTREE_CLEARBUFFER_H

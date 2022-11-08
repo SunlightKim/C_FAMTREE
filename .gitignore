@@ -1,0 +1,11 @@
+# VSCODE
+.vscode
+
+# JETBRAINS
+.idea
+
+# CMAKE
+cmake-build-debug
+
+# EXECUTABLES
+*.exe
