@@ -14,6 +14,10 @@
 * des fichiers json pour stocker les informations. Ce qui permettra de
 * gérer des familles plus complexes, et de gérer les relations entre les membres de la famille,
 * tout en gardant un code plus simple et plus lisible que s'il était écrit en C pur.
+* NOTE : Le code suivant est une sorte de grand artéfact de plusieurs
+* Précédentes tentatives de gérer plusieurs personnes à la fois. Or, cela n'a
+* Finalement pas été fait mais la logique utilisée est la même
+* Et le code pourrait être modifié plus tard pour intégrer ces fonctions.
 */
 
 // Structure de données pour les personnes
